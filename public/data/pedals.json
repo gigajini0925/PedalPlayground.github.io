@@ -1,6 +1,12 @@
 [
+	{       "Brand": "A3 stompbox",
+	        "Name": "Angel",
+	        "Width": "2.48"
+	        "Hight": "4.4",
+	        "Image": "Angel"
+	},
 	{
-		"Brand": "1981 Inventions",
+	         "Brand: "1981 Inventions",
 		"Name": "DRV",
 		"Width": 3.7,
 		"Height": 4.57,
