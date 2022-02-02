@@ -70,6 +70,13 @@
 		"Image": "3leaf-audio-wonderlove-v2.png"
 	},
 	{
+		"Brand": "A3 Stompbox",
+		"Name": "Angel Overdrive",
+		"Width": 4.43,
+		"Height": 2.38,
+		"Image": "ada-pbf-flanger.png"
+	},
+	{
 		"Brand": "A/DA",
 		"Name": "PBF Flanger",
 		"Width": 2.5,
